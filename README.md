@@ -2,6 +2,8 @@
 
 Repositório contendo funções para formatações de TCC seguindo o padrão da Unoesc Chapecó.
 
+> Importante, defina o compilador como o LuaLaTex, ou o modelo não funcionará corretamente.
+
 ## Configuração inicial
 
 Para o arquivo funcionar, defina:
