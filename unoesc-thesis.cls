@@ -894,7 +894,7 @@
 % Define as listas de abreviaturas e siglas
 \ut@acronymtype{acronimo}{ac}[%
   singular=acrônimo,
-  plural=abreviaturas e siglas]
+  plural=abreviações e siglas]
 \ut@acronimo{abreviatura}
 \ut@acronimo{sigla}
 
